@@ -7,9 +7,9 @@ This project has been created for educational purposes and is not intended to be
 Training ML models to classify the characteristics for each people and their possibility of heart attack. In the end, my intention is to find the best model that fit the data. 
 
 ### Dataset Information
-In this project i used a dataset from Kaggle.com.
+In this project I used a dataset from Kaggle.com.
 
-The dataset i chose was cleaned.The cleaned data set contains information of 14 attributes:
+The dataset I choose was cleaned.The cleaned data set contains information of 14 attributes:
 1) age
 2) sex: 0 = female, 1 = male
 3) cp = chest pain type (4 values)
